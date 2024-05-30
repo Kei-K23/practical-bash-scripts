@@ -14,12 +14,15 @@ Top visitors/IP addresses
 HTTP response code distribution
 It could generate a report summarizing this information and highlighting any anomalies.
 
-[Traffic Analysis Script](./traffic-log-analyzie/script.sh)
+[Traffic Analysis Script](./traffic-analysis-script/script.sh)
 
 ### Error Log Monitor Script:
 
 This script could regularly check error logs for specific error patterns such as 404 errors, 500 errors, etc.
 It could send email alerts to administrators when certain error thresholds are exceeded or when critical errors occur frequently.
+
+
+[Error Log Monitor Script](./error-log-monitor-script/script.sh)
 
 ### Security Log Analyzer:
 
