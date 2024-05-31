@@ -1,0 +1,6 @@
+May 30 12:34:56 server sshd[1234]: Failed password for user1 from 192.168.1.10 port 1234 ssh2
+May 30 13:45:32 server sshd[5678]: Failed password for user2 from 192.168.1.11 port 5678 ssh2
+May 30 14:56:12 server sudo: pam_unix(sudo:auth): authentication failure; logname=user uid=0 euid=0 tty=/dev/pts/1 ruser=user1 rhost=  user=admin
+May 30 15:07:48 server sshd[9876]: Successful login for admin from 192.168.1.12 port 9876 ssh2
+May 31 09:12:34 server sshd[5432]: Failed password for invalid user test from 203.0.113.5 port 5432 ssh2
+May 31 10:23:45 server sudo: pam_unix(sudo:auth): authentication failure; logname=user uid=0 euid=0 tty=/dev/pts/2 ruser=user2 rhost=  user=root
