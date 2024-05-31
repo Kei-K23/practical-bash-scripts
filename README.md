@@ -29,6 +29,8 @@ It could send email alerts to administrators when certain error thresholds are e
 This script could parse security logs to detect and report suspicious activities like failed login attempts, unauthorized access attempts, etc.
 It could generate reports on security incidents and identify potential security threats.
 
+[Security Log Analyzer](./security-log-analyzer-script/script.sh)
+
 
 ### Bandwidth Usage Tracker:
 
